@@ -1,2 +1,2 @@
-# JSM2019Proceedings
-Animations for JSM 2019 Proceedings
+# Guppy Reinforcement Learning
+Animations for Guppy Reinforcement Learning 2019
